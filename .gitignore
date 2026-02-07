@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# PyCharm
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Data and results (duże pliki)
+data/
+results/
+runs/
+
+# Models
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
